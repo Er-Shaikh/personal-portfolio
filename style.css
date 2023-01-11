@@ -90,7 +90,7 @@ nav.sticky .navbar-nav .nav-link:hover {
 /* banner */
 
 #banner {
-  background-image: url("/banner.jpg");
+  background-image: url('banner.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
