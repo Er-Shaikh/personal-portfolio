@@ -12,5 +12,5 @@ window.onscroll = function(){
 }
 
 function developmentAlert(){
-alert ("Unfortunately this section is under development phase kindly contact with the given deatails.") 
+alert("Unfortunately this section is under development phase kindly contact with the given deatails.") 
 }
