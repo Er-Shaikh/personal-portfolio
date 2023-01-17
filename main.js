@@ -10,3 +10,7 @@ window.onscroll = function(){
         scrollBtn.style.display = 'none';
     }
 }
+
+function developmentAlert(){
+alert ("Unfortunately this section is under development phase kindly contact with the given deatails.") 
+}
