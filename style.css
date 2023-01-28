@@ -443,7 +443,7 @@ nav.sticky .navbar-nav .nav-link:hover {
 }
 
 /* scroll-up-btn */
-/* .scroll-up-btn {
+.scroll-up-btn {
   position: fixed;
   bottom: 20px;
   right: 20px;
@@ -452,4 +452,4 @@ nav.sticky .navbar-nav .nav-link:hover {
 .scroll-up-btn a {
   color: crimson;
   display: none;
-} */
+} 
